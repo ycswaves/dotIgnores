@@ -1,0 +1,4 @@
+.npmignore
+.git*
+.DS_Store
+*.tgz
